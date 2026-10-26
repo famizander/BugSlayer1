@@ -1,4 +1,4 @@
-# 🐞 BugSlayer
+# BugSlayer
 
 **An AI debugging tutor that helps beginners *understand* bugs, not just fix them.**
 
